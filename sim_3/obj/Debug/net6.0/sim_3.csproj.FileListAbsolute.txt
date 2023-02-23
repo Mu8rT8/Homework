@@ -1,0 +1,15 @@
+D:\ДЗ\sim_3\bin\Debug\net6.0\sim_3.exe
+D:\ДЗ\sim_3\bin\Debug\net6.0\sim_3.deps.json
+D:\ДЗ\sim_3\bin\Debug\net6.0\sim_3.runtimeconfig.json
+D:\ДЗ\sim_3\bin\Debug\net6.0\sim_3.dll
+D:\ДЗ\sim_3\bin\Debug\net6.0\sim_3.pdb
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.csproj.AssemblyReference.cache
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.AssemblyInfoInputs.cache
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.AssemblyInfo.cs
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.csproj.CoreCompileInputs.cache
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.dll
+D:\ДЗ\sim_3\obj\Debug\net6.0\refint\sim_3.dll
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.pdb
+D:\ДЗ\sim_3\obj\Debug\net6.0\sim_3.genruntimeconfig.cache
+D:\ДЗ\sim_3\obj\Debug\net6.0\ref\sim_3.dll
